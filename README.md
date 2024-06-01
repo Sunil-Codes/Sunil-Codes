@@ -1,4 +1,8 @@
-<img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  alt="MasterHead" data-canonical-src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div style="text-align: center;">
+    <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="MasterHead" style="height: 500px; width: auto;">
+</div>
+
+
 
 <h1 align="center">Hi,I am Sunil</h1>
 <h3 align="center">I love diving into new tech and solving problems hands-on. My goal is to make lives easier by creating efficient systems and streamlining processes. Always eager to learn and grow, I aim to make a positive impact through my skills.</h3>
