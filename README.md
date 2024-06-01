@@ -53,6 +53,15 @@
      <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> 
         <img src="https://erpnext.com/files/erpnext-logo.png" alt="erp next" width="40" height="40"/> 
     </a>
+    <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="LookerStudio" width="40" height="40"/> 
+    </a>
+    <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-sheets-icon.png" alt="erp next" width="40" height="40"/> 
+    </a>
+    <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png?20221103122014" alt="erp next" width="40" height="40"/> 
+    </a>
     
 </p>
 
