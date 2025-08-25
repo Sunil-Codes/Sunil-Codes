@@ -74,7 +74,7 @@
 <a href="https://instagram.com/sunilcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only.13sunil" height="30" width="40" /></a>
 <a href="https://sunil-codes.hashnode.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Hashnode_icon.svg" alt="only.13sunil" height="30" width="40" /></a>
 
-![GitHub followers](https://img.shields.io/github/followers/Sunil-Codes?label=Followers&style=social)
+
 
 
 
