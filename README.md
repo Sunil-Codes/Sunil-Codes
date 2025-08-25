@@ -74,6 +74,9 @@
 <a href="https://instagram.com/sunilcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only.13sunil" height="30" width="40" /></a>
 <a href="https://sunil-codes.hashnode.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Hashnode_icon.svg" alt="only.13sunil" height="30" width="40" /></a>
 
+![](https://github-readme-stats.vercel.app/api?username=Sunil-Codes&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sunil-Codes&theme=blue-green&hide_border=true)
 
 
 <!---
